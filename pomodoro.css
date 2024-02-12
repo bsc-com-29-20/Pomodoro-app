@@ -27,3 +27,12 @@ p {
     border-radius: 5px;
     padding: 20px;
 }
+.app-circle {
+    position: relative;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+.circle-shape {
+    pointer-events: none;
+}
